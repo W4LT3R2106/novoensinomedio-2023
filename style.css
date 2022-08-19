@@ -1,0 +1,88 @@
+ body {
+background-color:#6495ED;
+  }
+
+header{
+
+background-color:#87CEFA;
+text-align: center;
+}
+
+
+   
+	h2{
+ 		
+    text-align:center; 
+ 		background-color:#00BFFF; 
+ 		color:#FFFFF0;
+ 		font-size:35px;
+	}
+
+	h3{
+text-align: center;
+padding: 60px;
+font-size:30px;
+background-color: #87CEEB;
+}
+
+
+p{ 
+	 text-align:center;	
+	 font-size:25px;
+  }
+
+
+
+
+
+
+  ul{
+
+display: flex;
+justify-content: space-around;
+font-size: 30px;
+
+  }
+
+
+
+button:hover{
+
+	text-decoration: underline;
+  	color:#0000CD; 
+
+}
+
+button{
+
+font-size:25px;
+
+background-color:#6495ED ;
+border-color:#6495ED;}
+
+h4{
+text-align: center;
+font-size: 25px;
+}
+
+
+  
+  h5{
+  	font-size:25px
+  ;
+background-color:	#F0FFF0;
+text-align: center;}
+
+
+
+ #ciencia{
+
+ 	display: inline-block;
+ 	text-align: center;
+  margin-left: 150px;}
+
+ 	#historia{
+
+ 		display: inline-block;
+ 		text-align: center;
+    margin-left: 150px;}
